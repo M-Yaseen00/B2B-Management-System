@@ -1,0 +1,5 @@
+NAUMAN 		1 		A72 		50 		Corei5 		5 		2875000
+YASEEN 		2 		A52 		40 		Core2Duo 		2 		1700000
+Fahad 		3 		A30 		30 		Corei3 		2 		1350000
+Asad 		4 		A72 		10 		Corei5 		4 		800000
+Nauman 		6 		A52 		40 		Pentium4 		3 		1780000
